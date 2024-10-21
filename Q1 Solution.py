@@ -1,5 +1,3 @@
-# ERC-CV-Assignment-4-Question-1
-
 import mediapipe as mp
 import cv2
 cap=cv2.VideoCapture(0)
